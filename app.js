@@ -7,6 +7,7 @@ var bodyParser = require('body-parser');
 
 var routes = require('./routes/index');
 var users = require('./routes/users');
+var db = require('monk')('mongodb://trainer:trainer274@mongosoup-cont002.mongosoup.de:32074/trainer-rsvp');
 
 var app = express();
 
@@ -16,6 +17,12 @@ app.set('view engine', 'jade');
 
 // uncomment after placing your favicon in /public
 //app.use(favicon(__dirname + '/public/favicon.ico'));
+
+app.use(function(req, res, next){
+    req.db = db;
+    next();
+});
+
 app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));

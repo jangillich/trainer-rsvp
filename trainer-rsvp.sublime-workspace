@@ -1,0 +1,345 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"req"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"S",
+				"select"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"navba",
+				"navbar-nav"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"dha",
+				"dashboard-item"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views/index.jade",
+			"settings":
+			{
+				"buffer_size": 170,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/index.js",
+			"settings":
+			{
+				"buffer_size": 470,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 1655,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Jan/workspace/private/trainer-rsvp",
+		"/C/Users/Jan/workspace/private/trainer-rsvp/routes",
+		"/C/Users/Jan/workspace/private/trainer-rsvp/views"
+	],
+	"file_history":
+	[
+		"/C/Users/Jan/workspace/private/trainer-rsvp/package.json",
+		"/C/Users/Jan/workspace/private/trainer-rsvp/routes/users.js",
+		"/C/Users/Jan/workspace/private/trainer-rsvp-node/trainer-rsvp/app.js",
+		"/C/Users/Jan/workspace/private/trainer-rsvp-node/trainer-rsvp/routes/index.js",
+		"/C/Users/Jan/workspace/private/trainer-rsvp-node/trainer-rsvp/package.json",
+		"/C/Users/Jan/workspace/private/trainer-rsvp-node/trainer-rsvp/node_modules/express/package.json",
+		"/C/Users/Jan/workspace/private/trainer-rsvp-node/trainer-rsvp/views/layout.jade",
+		"/C/Users/Jan/workspace/private/trainer-rsvp-node/trainer-rsvp/views/index.jade",
+		"/C/Users/Jan/workspace/private/trainer-rsvp-node/trainer-rsvp/public/css/custom-style.css",
+		"/C/Users/Jan/workspace/private/trainer-rsvp-node/trainer-rsvp/public/js/bin/materialize.js",
+		"/C/Users/Jan/workspace/private/trainer-rsvp-node/package.json",
+		"/C/Users/Jan/workspace/private/trainer-rsvp-node/trainer-rsvp/npm-debug.log",
+		"/C/Users/Jan/workspace/private/trainer-rsvp-node/node_modules/express/index.js",
+		"/C/Users/Jan/Desktop/materialize-src/sass/components/_variables.scss",
+		"/C/Users/Jan/Desktop/materialize-src/sass/components/_buttons.scss",
+		"/C/Users/Jan/Desktop/materialize-src/sass/materialize.scss",
+		"/C/Users/Jan/Desktop/nodetest.js",
+		"/C/Users/Jan/workspace/enterprise/ReqSense_Prototype/css/sass/_colors.scss",
+		"/C/Users/Jan/workspace/enterprise/ReqSense_Prototype/css/sass/_commons.scss",
+		"/C/Users/Jan/workspace/enterprise/ReqSense_Prototype/css/sass/documents-master.scss",
+		"/C/Users/Jan/workspace/enterprise/ReqSense_Prototype/documents-master.html",
+		"/C/Users/Jan/workspace/enterprise/ReqSense_Prototype/css/sass/_navbar.scss",
+		"/C/Users/Jan/workspace/enterprise/ReqSense_Prototype/css/documents-detail.css",
+		"/C/Users/Jan/workspace/enterprise/ReqSense_Prototype/css/documents-master.css.map",
+		"/C/Users/Jan/workspace/enterprise/ReqSense_Prototype/css/reqsense_styles.css",
+		"/C/Users/Jan/workspace/enterprise/ReqSense_Prototype/dashboard_draft_jan.html",
+		"/C/Users/Jan/Desktop/palette.sass",
+		"/C/Users/Jan/workspace/enterprise/ReqSense_Prototype/css/sass/sass-test.scss",
+		"/C/Users/Jan/Desktop/reqsense_prototype/css/sass/sass-test.scss",
+		"/C/Users/Jan/Desktop/reqsense_prototype/example.html",
+		"/C/Users/Jan/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Jan/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"input",
+			"form",
+			"          \n ",
+			"          \n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views/index.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								170,
+								170
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "routes/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								436,
+								436
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1655,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								703,
+								703
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "trainer-rsvp.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
